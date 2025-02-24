@@ -17,7 +17,7 @@ repo init -u https://github.com/Evolution-X/manifest -b vic --git-lfs
 /opt/crave/resync.sh
 
 # cloning device tree
-git clone https://github.com/xiaomi-msm8953-devs/device_xiaomi_daisy.git device/xiaomi/daisy
+git clone https://github.com/xiaomi-msm8953-devs/android_device_xiaomi_daisy.git device/xiaomi/daisy
 git clone https://github.com/xiaomi-msm8953-devs/android_device_xiaomi_msm8953-common.git device/xiaomi/msm8953-common
 
 # cloning kernel tree
